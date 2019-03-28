@@ -4,17 +4,17 @@ Sebuah aplikasi web yang dibangung menggunakan framework javascript vue.js untuk
 
 # Install
 ## Lumen
-<br><i>php -S localhost -t public</i>
+<i>php -S localhost -t public</i>
 
 ## Vue
-<br><i>npm run dev</i>
+<i>npm run dev</i>
 
 # Demo
 
 ## 1. To Do List/Home
-<br>halaman ini untuk menampilkan data "To Do" yang sudah dibuat
+halaman ini untuk menampilkan data "To Do" yang sudah dibuat
 <br>![To Do List](https://imgur.com/3QP9Ess.png)
 
 ## 2. To Do Create
-<br>Halaman ini untuk menambahkan data "To Do"
+Halaman ini untuk menambahkan data "To Do"
 <br>![To Do Create](https://imgur.com/cyZKXvc.png)
