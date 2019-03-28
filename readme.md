@@ -3,8 +3,8 @@
 Sebuah aplikasi web yang dibangung menggunakan framework javascript vue.js untuk frontendnya dan lumen sebagai backendnya. Aplikasi ini digunakan untuk menyimpan data tentang hal hal yang harus dilakukan, dengan kata lain sebagai pengingat
 
 # Install
-##Lumen
-<i>php -S localhost -t public</i>
+#Lumen
+<br><i>php -S localhost -t public</i>
 
-##Vue
-<i>npm run dev</i>
+#Vue
+<br><i>npm run dev</i>
