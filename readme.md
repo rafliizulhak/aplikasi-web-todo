@@ -13,4 +13,4 @@ Sebuah aplikasi web yang dibangung menggunakan framework javascript vue.js untuk
 
 ## 1. Todolist/Home
 halaman ini untuk menampilkan data "To Do" yang sudah dibuat
-https://imgur.com/3QP9Ess
+![To Do List](https://imgur.com/3QP9Ess)
